@@ -83,4 +83,5 @@ Unauthorized removal of copyright or license notices, or unauthorized commercial
 
 **NON-COMMERCIAL USE ONLY. ATTRIBUTION REQUIRED.**
 
+---
 By using the Software, you acknowledge that you have read, understood, and agreed to the terms of the License.
