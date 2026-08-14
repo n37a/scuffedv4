@@ -8,7 +8,7 @@ Clone the repository:
 git clone https://github.com/n37a/silica
 cd [REPOSITORY]
 ```
-## Runs
+## Run:
 1. ```npm install ```
 2. ```node server.js```
 
