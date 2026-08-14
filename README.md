@@ -8,9 +8,8 @@ Clone the repository:
 git clone https://github.com/n37a/silica
 cd [REPOSITORY]
 ```
-## Run
+## Runs
 1. ```npm install ```
 2. ```node server.js```
 
-By using the Software, you acknowledge that you have read, understood, and agreed to the terms of this License.
-
+By using the Software, you acknowledge that you have read, understood, and agreed to the terms of the License.
